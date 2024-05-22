@@ -141,7 +141,7 @@ body {
 }
 
 #typed {
-  color: var(--color-green);
+  color: blue;
 }
 /* #site-main */
 
@@ -151,7 +151,7 @@ body {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #fff;
-  color: green !important;
+  color: blue !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -164,7 +164,7 @@ body {
 }
 
 .social-icons a:hover {
-  background-color: var(--color-black);
+  background-color: var();
   transform: scale(1.2);
 }
 
@@ -177,7 +177,7 @@ body {
 }
 
 .dev-icons .list-inline-item :hover {
-  color: var(--color-green);
+  color: blue;
 }
 /*icons*/
 
