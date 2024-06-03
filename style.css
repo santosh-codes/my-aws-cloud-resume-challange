@@ -221,3 +221,7 @@ body {
 .eye :hover {
   color: var(--color-white);
 }
+
+#no-underline {
+  text-decoration: none;
+}
